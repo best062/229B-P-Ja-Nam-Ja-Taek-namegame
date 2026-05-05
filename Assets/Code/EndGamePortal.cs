@@ -6,6 +6,7 @@ public class EndGamePortal : MonoBehaviour
     [Header("Scene Transition")]
     public string creditSceneName = "End";
     private bool isPlayerInRange = false;
+    public GameObject  FPanel;
 
     void Update()
     {
@@ -21,6 +22,7 @@ public class EndGamePortal : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPlayerInRange = true;
+            FPanel.SetActive(true);
             Debug.Log("Press 'F' to finish the game.");
         }
     }

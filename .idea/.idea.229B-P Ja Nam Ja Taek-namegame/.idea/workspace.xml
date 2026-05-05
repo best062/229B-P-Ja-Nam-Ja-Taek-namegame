@@ -6,13 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0fe38a06-f63d-4db7-8346-53b0748b1e7b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.229B-P Ja Nam Ja Taek-namegame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.229B-P Ja Nam Ja Taek-namegame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/New Animation mons.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/New Animation mons.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/tilemap_4.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/tilemap_4.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/EndGamePortal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/EndGamePortal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/End.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/End.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Code/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/EndGamePortal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MonsterAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/RoomController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -107,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777885658761</updated>
       <workItem from="1777885662015" duration="3000" />
-      <workItem from="1777920512994" duration="6720000" />
+      <workItem from="1777920512994" duration="8403000" />
     </task>
     <servers />
   </component>
